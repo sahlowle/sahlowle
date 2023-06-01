@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Node Js**
 
-- 👨‍💻 All of my projects are available at [suhail-osman.com](suhail-osman.com)
+- 👨‍💻 All of my projects are available at [suhail-osman.com](https://suhail-osman.com)
 
-- 📝 I regularly write articles on [suhail-osman.com](suhail-osman.com)
+- 📝 I regularly write articles on [suhail-osman.com](https://suhail-osman.com)
 
 - 💬 Ask me about **Laravel PHP**
 
 - 📫 How to reach me **sahlowle@gmail.com**
 
-- 📄 Know about my experiences [suhail-osman.com](suhail-osman.com)
+- 📄 Know about my experiences [suhail-osman.com](https://suhail-osman.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
